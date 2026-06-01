@@ -10,7 +10,7 @@ Claude Code or Codex. Auth is OAuth; you'll be prompted to sign in on connect.
 
 ```text
 /plugin marketplace add naturalpay/agent-plugins
-/plugin install natural@naturalpay
+/plugin install natural@natural
 /reload-plugins
 /mcp
 ```

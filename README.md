@@ -11,7 +11,7 @@ MCP server at `https://mcp.natural.co`.
 
 ```text
 /plugin marketplace add naturalpay/agent-plugins
-/plugin install natural@naturalpay
+/plugin install natural@natural
 /reload-plugins
 /mcp
 ```
