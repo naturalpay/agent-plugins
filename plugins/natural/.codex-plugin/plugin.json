@@ -12,6 +12,8 @@
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "Natural",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
     "shortDescription": "Send and request money, manage agents, check balances.",
     "longDescription": "Connect to Natural's hosted MCP to move money, manage agents and customers, and read balances and transactions. Authenticates with OAuth on connect.",
     "developerName": "Natural",
