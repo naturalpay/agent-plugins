@@ -4,8 +4,7 @@
     "name": "Natural"
   },
   "metadata": {
-    "description": "Natural's official plugins for AI coding agents.",
-    "version": "0.1.0"
+    "description": "Natural's official plugins for AI coding agents."
   },
   "plugins": [
     {

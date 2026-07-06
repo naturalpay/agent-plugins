@@ -1,7 +1,7 @@
 {
   "name": "natural",
   "displayName": "Natural",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Send and request money, manage agents, and check balances on Natural - via Natural's hosted OAuth MCP.",
   "author": {
     "name": "Natural",
