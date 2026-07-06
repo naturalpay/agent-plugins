@@ -2,7 +2,8 @@
 
 Connect your AI coding agent to [Natural](https://natural.co) - send and request
 money, manage agents and customers, and check balances and transactions, from
-Claude Code or Codex. Auth is OAuth; you'll be prompted to sign in on connect.
+Claude Code, Codex, or Cursor. Auth is OAuth; you'll be prompted to sign in on
+connect.
 
 ## Install
 
@@ -25,5 +26,10 @@ codex plugin marketplace add naturalpay/agent-plugins
 ```
 
 Open the plugin directory, install `Natural`, and authenticate when prompted.
+
+### Cursor
+
+Install `Natural` from the [Cursor marketplace](https://cursor.com/marketplace),
+then authenticate when prompted.
 
 The MCP endpoint is `https://mcp.natural.co`.
