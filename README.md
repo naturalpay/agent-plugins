@@ -31,12 +31,3 @@ Open the plugin directory, install `Natural`, and authenticate when prompted.
 
 Install `Natural` from the [Cursor marketplace](https://cursor.com/marketplace),
 then authenticate when prompted.
-
-To test a local checkout before the marketplace listing is live:
-
-```sh
-ln -s "$(pwd)/plugins/natural" ~/.cursor/plugins/local/natural
-```
-
-Then reload Cursor (`Developer: Reload Window`) and enable the `natural` MCP
-server when prompted.
