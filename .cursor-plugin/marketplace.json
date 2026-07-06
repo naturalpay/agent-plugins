@@ -1,8 +1,7 @@
 {
   "name": "natural",
   "owner": {
-    "name": "Natural",
-    "url": "https://natural.co"
+    "name": "Natural"
   },
   "metadata": {
     "description": "Natural's official plugins for AI coding agents."
@@ -11,7 +10,8 @@
     {
       "name": "natural",
       "source": "./plugins/natural",
-      "description": "Send and request money, manage agents, and check balances on Natural - via Natural's hosted OAuth MCP."
+      "description": "Send and request money, manage agents, and check balances on Natural - via Natural's hosted OAuth MCP.",
+      "category": "Finance"
     }
   ]
 }

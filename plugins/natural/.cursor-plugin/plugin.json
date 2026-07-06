@@ -4,12 +4,12 @@
   "version": "0.1.2",
   "description": "Send and request money, manage agents, and check balances on Natural - via Natural's hosted OAuth MCP.",
   "author": {
-    "name": "Natural",
-    "url": "https://natural.co"
+    "name": "Natural"
   },
   "homepage": "https://natural.co",
   "repository": "https://github.com/naturalpay/agent-plugins",
+  "license": "MIT",
   "keywords": ["payments", "money", "fintech", "mcp", "natural"],
-  "defaultEnabled": true,
-  "mcpServers": "./.mcp.json"
+  "logo": "assets/icon.png",
+  "mcpServers": "./mcp.json"
 }
