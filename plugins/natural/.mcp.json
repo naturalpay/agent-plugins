@@ -2,7 +2,7 @@
   "mcpServers": {
     "natural": {
       "type": "http",
-      "url": "https://mcp.natural.co"
+      "url": "https://mcp.natural.com"
     }
   }
 }

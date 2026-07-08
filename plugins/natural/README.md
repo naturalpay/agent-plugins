@@ -1,6 +1,6 @@
 # Natural
 
-Connect your AI coding agent to [Natural](https://natural.co) - send and request
+Connect your AI coding agent to [Natural](https://natural.com) - send and request
 money, manage agents and customers, and check balances and transactions, from
 Claude Code, Codex, or Cursor. Auth is OAuth; you'll be prompted to sign in on
 connect.
@@ -32,4 +32,4 @@ Open the plugin directory, install `Natural`, and authenticate when prompted.
 Install `Natural` from the [Cursor marketplace](https://cursor.com/marketplace),
 then authenticate when prompted.
 
-The MCP endpoint is `https://mcp.natural.co`.
+The MCP endpoint is `https://mcp.natural.com`.
