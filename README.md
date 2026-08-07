@@ -5,7 +5,8 @@ Official Natural plugin marketplace for AI coding agents.
 ## Natural MCP
 
 The `natural` plugin connects Claude Code, Codex, and Cursor to Natural's
-hosted OAuth MCP server at `https://mcp.natural.com`.
+hosted OAuth MCP server at `https://mcp.natural.com`. It also bundles the
+sandbox MCP server at `https://mcp.sandbox.natural.com` for testing.
 
 ### Claude Code
 
