@@ -3,6 +3,10 @@
     "natural": {
       "type": "http",
       "url": "https://mcp.natural.com"
+    },
+    "natural-sandbox": {
+      "type": "http",
+      "url": "https://mcp.sandbox.natural.com"
     }
   }
 }
