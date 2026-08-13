@@ -32,7 +32,4 @@ Open the plugin directory, install `Natural`, and authenticate when prompted.
 Install `Natural` from the [Cursor marketplace](https://cursor.com/marketplace),
 then authenticate when prompted.
 
-The plugin bundles two MCP servers: `natural` (`https://mcp.natural.com`) and
-`natural-sandbox` (`https://mcp.sandbox.natural.com`) for testing. Each
-authenticates separately; disable the one you don't need from your agent's MCP
-settings.
+The MCP endpoint is `https://mcp.natural.com`.
