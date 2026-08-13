@@ -2,9 +2,6 @@
   "mcpServers": {
     "natural": {
       "url": "https://mcp.natural.com"
-    },
-    "natural-sandbox": {
-      "url": "https://mcp.sandbox.natural.com"
     }
   }
 }
